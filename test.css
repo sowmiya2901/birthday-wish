@@ -3,12 +3,12 @@ body {
   margin: 0;
   padding: 0;
   background-color: #f9f9f9;
-  color: #333;
+  color: #080808;
   text-align: center;
 }
 
 header {
-  background-color: #f1f1f1;
+  background-color:#e6e6fa;
   padding: 20px;
 }
 
@@ -18,7 +18,7 @@ h1 {
 
 h2 {
   margin-top: 20px;
-  color: #555;
+  color: #0f0f0f;
 }
 
 section {
@@ -62,7 +62,7 @@ section {
 footer {
   margin-top: 20px;
   padding: 10px;
-  background-color: #f1f1f1;
+  background-color: #e6e6fa;
 }
 body {
   background-image: url('background.png'); /* Replace 'background.jpg' with your image file name */
